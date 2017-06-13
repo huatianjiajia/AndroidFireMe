@@ -19,7 +19,6 @@ public class SplashActivity extends BaseActivity {
     public int getLayoutId() {
         return R.layout.act_splash;
     }
-
     @Override
     public void initPresenter() {
 
