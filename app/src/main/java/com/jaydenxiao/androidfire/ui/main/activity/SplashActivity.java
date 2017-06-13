@@ -15,7 +15,6 @@ import com.jaydenxiao.common.base.BaseActivity;
  * 修改备注：
  */
 public class SplashActivity extends BaseActivity {
-
     @Override
     public int getLayoutId() {
         return R.layout.act_splash;
