@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AndroidFireWxw.iml" filepath="$PROJECT_DIR$/AndroidFireWxw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidFireMe.iml" filepath="$PROJECT_DIR$/AndroidFireMe.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/common/common.iml" filepath="$PROJECT_DIR$/library/common/common.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/irecyclerview/irecyclerview.iml" filepath="$PROJECT_DIR$/library/irecyclerview/irecyclerview.iml" />
