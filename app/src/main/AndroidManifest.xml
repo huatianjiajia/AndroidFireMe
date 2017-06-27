@@ -33,7 +33,9 @@
         <activity android:name=".ui.news.activity.NewsBrowserActivity"/>
         <activity android:name=".ui.news.activity.NewsPhotoDetailActivity"/>
         <activity android:name=".ui.news.activity.NewsChannelActivity"/>
+        <activity android:name=".ui.news.activity.PhotosDetailActivity"/>
         <activity android:name=".ui.news.activity.NewsDetailActivity"/>
+        <activity android:name=".ui.zone.activity.CircleZoneActivity"/>
     </application>
 
 </manifest>
