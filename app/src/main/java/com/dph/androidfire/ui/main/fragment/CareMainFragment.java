@@ -6,6 +6,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 
 import com.dph.androidfire.R;
+import com.dph.androidfire.ui.news.activity.AboutActivity;
 import com.dph.androidfire.ui.zone.activity.CircleZoneActivity;
 import com.dph.common.base.BaseFragment;
 import com.dph.common.commonutils.ImageLoaderUtils;
@@ -67,6 +68,6 @@ public class CareMainFragment extends BaseFragment {
     }
     @OnClick(R.id.ll_daynight_about)
     public void about(){
-//        AboutActivity.startAction(getContext());
+        AboutActivity.startAction(getContext());
     }
 }
